@@ -9,8 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- *  Name: Raj Patel - 000744572
- *  Date: 2018-01-12
+ *  Name: Raj Patel 
+ *  Date: 2021-08-21
  *  
  *  The main perpose of this class is to create an windows form application
  *  This class is a good representation how to use windows drawing library
@@ -20,7 +20,7 @@ using System.Windows.Forms;
  */
 
 /// <Statement_of_authorship>
-///     I, Raj Patel, 000744572 certify that this material is my original work.
+///     I, Raj Patel, certify that this material is my original work.
 ///     No other person's work has been used without due acknowledgement.
 /// </Statement_of_authorship>
 namespace Lab5A
